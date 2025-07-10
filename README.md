@@ -45,6 +45,8 @@ AZURE_SEARCH_KEY=your_key
 AZURE_OPENAI_ENDPOINT=https://your-openai.openai.azure.com/
 AZURE_OPENAI_KEY=your_key
 ```
+## 설치 (오류나서 추가적으로)
+pip install azure-storage-blob azure-search-documents azure-ai-formrecognizer aiohttp python-dotenv
 
 ## 사용법
 
