@@ -1,0 +1,9 @@
+azure-storage-blob==12.19.0
+azure-ai-formrecognizer==3.3.0
+azure-search-documents==11.4.0
+azure-core==1.29.5
+openai==0.28.1
+aiohttp==3.9.1
+Pillow==10.1.0
+requests==2.31.0
+python-dotenv==1.0.0

@@ -1,0 +1,22 @@
+{
+  "name": "iap-pdfguide-index",
+  "fields": [
+    {
+      "id": "파일명_페이지번호",
+      "content": "페이지 텍스트 + 이미지 설명 + OCR 텍스트",
+      "file_name": "원본 파일명",
+      "page_number": "페이지 번호",
+      "image_descriptions": ["이미지 설명1", "이미지 설명2"],
+      "image_ocr_text": ["OCR 텍스트1", "OCR 텍스트2"],
+      "content_vector": [임베딩 벡터],
+      "images": [
+        {
+          "image_id": "이미지 ID",
+          "description": "이미지 설명",
+          "ocr_text": "OCR 텍스트",
+          "bounding_box": "위치 정보"
+        }
+      ]
+    }    
+  ]
+}
